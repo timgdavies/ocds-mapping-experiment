@@ -1,0 +1,17 @@
+{
+  "title": "Mapping",
+  "type": "object",
+  "properties": {
+    "mapsTo": {
+      "type": "string",
+      "title": "Maps To",
+      "default":""
+    },
+    "mappingNote": {
+      "type": "string",
+      "title": "Mapping note",
+      "default":""
+    }
+  },
+  "format": "grid"
+}
